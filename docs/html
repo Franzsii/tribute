@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body style="background-color:Crimson;">
+    <main id ="main">
+    <h1 id="title" style="color:orange;"><b> This is not the greatest website in the world, no. This is just a tribute!</b> </h1>
+    <p style= "color:yellow;"> <strong> The Song that made 'Tributes' awesome!</stong> <p>
+    <figure id="img-div">
+      <img id="image" src="https://www.syfy.com/sites/syfy/files/tenacious-d-tribute-1.gif" alt="Tenacious D performing it" style="width:max;height:auto;">
+      <figcaption id ="img-caption" style= "font-size:14; color:white "><br>
+     "Tenacious D  in the video of 'Tribute'"
+     </figcaption>
+<br>
+  </figure>
+    <section id = "tribute-info">
+      <h3 id = "headline">
+    Here's a <a target="_blank" href="https://www.google.com/   imgres?imgurl=https%3A%2F%2Fi.ytimg.com%2Fvi%2F_lK4cX5xGiQ%2Fmaxresdefault.jpg&imgrefurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_lK4cX5xGiQ&tbnid=3UgJuYkxi8_XDM&vet=12ahUKEwjioKuv5_H5AhUZ5hoKHY_YCjAQMygAegUIARDBAQ..i&docid=o-kLBrNMFy0NjM&w=1280&h=720&q=tenacious%20d%20tribute%20video&hl=en&ved=2ahUKEwjioKuv5_H5AhUZ5hoKHY_YCjAQMygAegUIARDBAQ"> link to the official video on YouTube.</a> for you to check it out in all its glory!
+      </h3>
+  <p> The song was inspired by Metallica's song 'One'. <p>
+  <p> It started off as a venture to write the greatest song in the world and instead became a comical tribute. </p>
+  <p> It was the first song written by the duo (Jack Black and Kyle Gass)...and set the tone of their future songs.</p>
+
+        <h3>
+  Head over to <a id = "tribute-link" href="https://consequence.net/video/tenacious-d-greatest-song-in-the-world" target="_blank"> <i>Heavy Consequence</i> </a> to check out the full interview where the origin of the song was revealed for the first time with Jack Black and Kyle Gass.
+        </h3>
+      </section>
+    </main>
+  </body>
+</html>
